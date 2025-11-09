@@ -7,7 +7,7 @@ Ici, tu trouveras principalement des exercices pour débutant en scripting. J’
 
 ## Pourquoi ce dépôt ?
 
-- S’exercer et apprendre les bases du scripting (Bash, Python, etc.)
+- S’exercer et apprendre les bases du scripting (Bash)
 - Garder une trace de ma progression
 - Revenir sur mes erreurs ou mes réussites pour m’améliorer
 - Éventuellement, partager des astuces ou scripts plus utiles au fil du temps
