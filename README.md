@@ -35,10 +35,6 @@ Si tu débutes aussi, tu peux t’inspirer de mes exercices. Voici comment faire
      ```bash
      ./mon_script.sh
      ```
-   - Pour un script Python :
-     ```bash
-     python3 mon_script.py
-     ```
 
 Lis bien les commentaires dans chaque fichier, ils pourront t’aider à comprendre la logique.
 
