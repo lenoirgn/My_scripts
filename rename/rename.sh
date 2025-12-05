@@ -13,9 +13,6 @@ elif [ "$choix" = "one" ]; then
 else
 echo "Mauvais choix"
 fi
-	
-
-
 
 }
 
